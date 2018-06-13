@@ -1,13 +1,15 @@
+GIT
+  remote: https://github.com/Respira/form_fields.git
+  revision: 8f4b54b89c12509e324b768fac66c5f748d50061
+  ref: 8f4b54b89c12509e324b768fac66c5f748d50061
+  specs:
+    form_fields (0.1.0)
+      rails (~> 5.2.0)
+
 PATH
   remote: ../blorgh
   specs:
     blorgh (0.1.0)
-      rails (~> 5.2.0)
-
-PATH
-  remote: ../form_fields
-  specs:
-    form_fields (0.1.0)
       rails (~> 5.2.0)
 
 GEM

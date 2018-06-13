@@ -41,7 +41,9 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootsnap', '>= 1.1.0', require: false
 
 gem 'blorgh', path: '../blorgh'
-gem 'form_fields', path: '../form_fields'
+gem 'form_fields', github: 'Respira/form_fields', ref: '8f4b54b89c12509e324b768fac66c5f748d50061'
+
+
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
